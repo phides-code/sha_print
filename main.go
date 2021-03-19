@@ -1,4 +1,5 @@
-/*write a program that prints the SHA256 hash of its standard input by default, but supports a command line flag to print the sha384 or sha512 hash instead. */
+/*write a program that prints the SHA256 hash of its standard input by default, but supports a 
+command line flag to print the sha384 or sha512 hash instead. */
 
 package main
 
